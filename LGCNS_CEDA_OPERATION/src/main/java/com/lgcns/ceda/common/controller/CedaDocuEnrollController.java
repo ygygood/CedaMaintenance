@@ -27,6 +27,8 @@ public class CedaDocuEnrollController {
 		String fDate = fromDate;
 		String tDate = toDate;
 		
+		logger.info("abc");;
+		
 		ArrayList<ClientDocuEnrollInfo> docuEnrollResult = new CedaDocuEnrollServiceImpl().getDocuEnrollResult(fDate, tDate);
 		model.addAttribute("docuEnrollResult",docuEnrollResult);
 		
