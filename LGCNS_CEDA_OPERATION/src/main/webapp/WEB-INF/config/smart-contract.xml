@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<header>
+	<nodeInfo>
+		<node1>10.62.35.202</node1>
+		<node2>10.62.35.203</node2>
+		<port>8545</port>
+	</nodeInfo>
+	
+	<serverWallet>
+		<id></id>
+		<pwd></pwd>
+	</serverWallet>
+	
+	<AccountsContract>
+		<address></address>
+		<abi></abi>
+	</AccountsContract>
+
+
+
+
+</header>
